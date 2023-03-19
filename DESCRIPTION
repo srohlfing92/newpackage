@@ -1,6 +1,6 @@
 Package: NEWpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Nutrient concentration in runoff water
 Version: 0.1.0
 Author: Sarah Rohlfing and Grace Bianchi
 Maintainer: The package maintainer <srohlfing@ucsb.edu>
